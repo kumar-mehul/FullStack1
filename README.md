@@ -16,4 +16,4 @@ The website demonstrates basic structuring with HTML5 elements, styling with CSS
 
 ## License
 This project is open-source and available under the MIT License.
-"
+
